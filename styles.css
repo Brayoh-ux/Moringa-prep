@@ -1,17 +1,15 @@
-h1{
-    color: blue;
-    text-align: center;
+h1 {
+    font-size: 40px;
+    color: #2CF817;
+    padding-left: 20%;
 }
 h3, h5{
-    color: greenyellow;
-    font-style: italic;
-    text-indent: 20%;
+    color: rgb(47, 172, 255);
+    font-size: 30px;
 }
-*,p,br{
-    font-family: sans-serif;
-    text-indent: 20px;
-    
+p {
+    font-family: cursive;
 }
-ul{
-    line-height: 50px;
+ul {
+    line-height: 30px;
 }
